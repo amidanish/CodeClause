@@ -1,2 +1,2 @@
 # CodeClause
-My CodeClause internship projects guys:)
+My CodeClause internship project(s) guys:)
